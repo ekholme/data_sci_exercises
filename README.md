@@ -12,6 +12,8 @@ A workspace for polyglot data science exercises and katas
 
 - [Basic Logistic Regression in Julia](src/logistic_regression.jl): Simulating a dataset, then fitting a 'vanilla' logistic regression, extracting model coefficients, and measuring model accuracy.
 
+- [Estimating Bootstrapped Percentiles in R](src/bootstrap_percentile_estimates.R): Simulating a dataset, then implementing a function to bootstrap estimate percentiles from the data.
+
 ### Misc Programming
 
 #### R
