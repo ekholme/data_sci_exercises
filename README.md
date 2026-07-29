@@ -14,6 +14,10 @@ A workspace for polyglot data science exercises and katas
 
 - [Estimating Bootstrapped Percentiles in R](src/bootstrap_percentile_estimates.R): Simulating a dataset, then implementing a function to bootstrap estimate percentiles from the data.
 
+### Probability
+
+- [Romeo and Juliet](src/romeo_juliet.jl): Estimating the probability that Romeo and Juliet will meet in a given window (see file for full problem text).
+
 ### Misc Programming
 
 #### R
