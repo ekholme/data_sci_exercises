@@ -1,6 +1,12 @@
 [deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Chain = "8be319e6-bccf-4806-a6f7-6fae938471bc"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
 StructuralEquationModels = "383ca8c5-e4ff-4104-b0a9-f7b279deed53"
+Tidier = "f0413319-3358-4bb0-8e7c-0c83523a93bd"
+TidierPlots = "337ecbd1-5042-4e2a-ae6f-ca776f97570a"
 Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
