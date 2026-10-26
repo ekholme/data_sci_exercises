@@ -10,6 +10,8 @@ A workspace for polyglot data science exercises and katas
 
 ### Statistical Modeling
 
+- [Maximum Likelihood Estimation in Julia](src/mle_linreg.jl): Estimating the parameters of a linear regression using maximum likelihood estimation.
+
 - [Basic Logistic Regression in Julia](src/logistic_regression.jl): Simulating a dataset, then fitting a 'vanilla' logistic regression, extracting model coefficients, and measuring model accuracy.
 
 - [Estimating Bootstrapped Percentiles in R](src/bootstrap_percentile_estimates.R): Simulating a dataset, then implementing a function to bootstrap estimate percentiles from the data.
